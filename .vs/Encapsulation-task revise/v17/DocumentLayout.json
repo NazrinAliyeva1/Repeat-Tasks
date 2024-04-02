@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\Encapsulation-task revise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D30618-093D-4812-9D32-1DE968478222}|Encapsulation-task revise\\Encapsulation-task revise.csproj|c:\\users\\99455\\source\\repos\\encapsulation-task revise\\encapsulation-task revise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D30618-093D-4812-9D32-1DE968478222}|Encapsulation-task revise\\Encapsulation-task revise.csproj|solutionrelative:encapsulation-task revise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D30618-093D-4812-9D32-1DE968478222}|Encapsulation-task revise\\Encapsulation-task revise.csproj|c:\\users\\99455\\source\\repos\\encapsulation-task revise\\encapsulation-task revise\\models\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D30618-093D-4812-9D32-1DE968478222}|Encapsulation-task revise\\Encapsulation-task revise.csproj|solutionrelative:encapsulation-task revise\\models\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D30618-093D-4812-9D32-1DE968478222}|Encapsulation-task revise\\Encapsulation-task revise.csproj|c:\\users\\99455\\source\\repos\\encapsulation-task revise\\encapsulation-task revise\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D30618-093D-4812-9D32-1DE968478222}|Encapsulation-task revise\\Encapsulation-task revise.csproj|solutionrelative:encapsulation-task revise\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D30618-093D-4812-9D32-1DE968478222}|Encapsulation-task revise\\Encapsulation-task revise.csproj|c:\\users\\99455\\source\\repos\\encapsulation-task revise\\encapsulation-task revise\\models\\elecrticcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D30618-093D-4812-9D32-1DE968478222}|Encapsulation-task revise\\Encapsulation-task revise.csproj|solutionrelative:encapsulation-task revise\\models\\elecrticcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D30618-093D-4812-9D32-1DE968478222}|Encapsulation-task revise\\Encapsulation-task revise.csproj|c:\\users\\99455\\source\\repos\\encapsulation-task revise\\encapsulation-task revise\\models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D30618-093D-4812-9D32-1DE968478222}|Encapsulation-task revise\\Encapsulation-task revise.csproj|solutionrelative:encapsulation-task revise\\models\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tesla.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Encapsulation-task revise\\Encapsulation-task revise\\Models\\Tesla.cs",
+              "RelativeDocumentMoniker": "Encapsulation-task revise\\Models\\Tesla.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Encapsulation-task revise\\Encapsulation-task revise\\Models\\Tesla.cs",
+              "RelativeToolTip": "Encapsulation-task revise\\Models\\Tesla.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:26:31.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElecrticCar.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Encapsulation-task revise\\Encapsulation-task revise\\Models\\ElecrticCar.cs",
+              "RelativeDocumentMoniker": "Encapsulation-task revise\\Models\\ElecrticCar.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Encapsulation-task revise\\Encapsulation-task revise\\Models\\ElecrticCar.cs",
+              "RelativeToolTip": "Encapsulation-task revise\\Models\\ElecrticCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:25:36.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Encapsulation-task revise\\Encapsulation-task revise\\Models\\Cars.cs",
+              "RelativeDocumentMoniker": "Encapsulation-task revise\\Models\\Cars.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Encapsulation-task revise\\Encapsulation-task revise\\Models\\Cars.cs",
+              "RelativeToolTip": "Encapsulation-task revise\\Models\\Cars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:25:19.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Encapsulation-task revise\\Encapsulation-task revise\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Encapsulation-task revise\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Encapsulation-task revise\\Encapsulation-task revise\\Models\\Person.cs",
+              "RelativeToolTip": "Encapsulation-task revise\\Models\\Person.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:55:40.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Encapsulation-task revise\\Encapsulation-task revise\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation-task revise\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Encapsulation-task revise\\Encapsulation-task revise\\Program.cs",
+              "RelativeToolTip": "Encapsulation-task revise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:51:06.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
